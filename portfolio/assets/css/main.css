@@ -1886,7 +1886,7 @@ header.major h2 {
 header.major h2 + p {
   color: #777;
   font-size: 1.75em;
-  font-weight: 700;
+  font-weight: 400;
   margin-top: -0.75em;
 }
 
